@@ -7,7 +7,6 @@
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.7.8",
 	"minimumSystemVersion": "1.1.1",
-	"systems": ["dnd5e"],
 	"scripts": ["./poi-sheet.js"],
 	"styles": ["/poi-sheet.css"],
 	"url": "https://github.com/Sky-Captain-13/foundry/tree/master/poi-sheet",
